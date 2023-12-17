@@ -52,7 +52,7 @@
 
 [youtube]: http://www.youtube.com/@kushalmunjal7108
 [linkedin]: https://www.linkedin.com/in/kushalmunjal
-[gmail]: kushalmunjal30@gmail.com
+[gmail]: mail.google.com/mail/kushalmunjal30@gmail.com
 
 
 
