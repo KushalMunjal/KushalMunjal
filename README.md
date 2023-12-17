@@ -1,15 +1,65 @@
-### Hi there 👋
-This is Your Friend/Coder **Kushal***
+## Hi, I'm [Kushal Munjal][website] 👋
 
-- 🔭 I’m currently working on Different Projects and Different Languages which I will Post in my profile.
 - 🌱 I’m currently learning my UnderGraduate Course i.e Information & Communication Technology at Marwadi University.
+- 🔭 I’m currently exploring & devloping Projects in different Languages.
 - 💬 Ask me about new AI Tools, Techs, Mobile Applicaions.
-- 📫 How to reach me: www.linkedin.com/in/kushalmunjal
-- ⚡ Fun fact: I have a Youtube channel i.e. -> https://www.youtube.com/@kushalmunjal7108
+- 🤔 I’m looking for help with learning new TechStacks.
+- ⚡ Fun fact: I have a Youtube channel [KushalMunjal][youtube]
+
+**Connect with me:**
+
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
+[<img align="left" alt="Kushal Munjal | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="KushalMunjal | Twitter" width="22px" src="https://icons8.com/icon/32323/instagram" />][instagram]
+[<img align="left" alt="Kushal Munjal | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Kushal Munjal | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
+
+<br />
+<br />
+
+**Familiar Languages:**
+
+<code><img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></code>
+<code><img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
+<code><img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
+<code><img alt="ASP.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" /></code>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></code>
+
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos 
+<!-- YOUTUBE:START -->
+- [GATE DAA Algorithms Questions](https://youtu.be/F9hAHRmHits?si=acxUqU_ZtOQfQvom)
+- [Bandwidth in Data Communication](https://youtu.be/byH1XC-Khso?si=iyuEyTEM3nsogHzN)
+- [Altitude Control in Satellite Communication](https://youtu.be/8jBFjrQXnWE?si=tterq40Iy8878OYQ)
+- [ICE | Types of Connection in Network](https://youtu.be/SBPLlOIUmIc?si=n6jbWcy2PjxnfZuN)
+- [Halfwave & Fullwave Rectifier](https://youtu.be/t8Rhe7DjrSg?si=RGNTKyD0uUbSXpJk)
+<!-- YOUTUBE:END -->
+
+---
+
+
+[website]: 
+[instagram]: 
+[youtube]: http://www.youtube.com/@kushalmunjal7108
+[facebook]: 
+[linkedin]: www.linkedin.com/in/kushalmunjal
+
+
 
 <!--
 **KushalMunjal/KushalMunjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="left" alt="itzpradip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
