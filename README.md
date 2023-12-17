@@ -8,11 +8,11 @@
 
 **Connect with me:**
 
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />]
 [<img align="left" alt="Kushal Munjal | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="KushalMunjal | Twitter" width="22px" src="https://icons8.com/icon/32323/instagram" />][instagram]
+[<img align="left" alt="KushalMunjal | Twitter" width="22px" src="https://icons8.com/icon/32323/instagram" />]
 [<img align="left" alt="Kushal Munjal | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Kushal Munjal | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Kushal Munjal | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />]
 
 <br />
 <br />
