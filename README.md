@@ -12,6 +12,7 @@
 [<img align="left" alt="Kushal Munjal | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Kushal Munjal | Instagram" width="22px" src="https://img.icons8.com/color/22/000000/instagram.png" />]
 [<img align="left" alt="Kushal Munjal | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Kushal Munjal | Mail" width="22px" src="https://img.icons8.com/color/22/000000/gmail.png" />][gmail]
 
 
 <br />
@@ -52,6 +53,7 @@
 
 [youtube]: http://www.youtube.com/@kushalmunjal7108
 [linkedin]: https://www.linkedin.com/in/kushalmunjal
+[gmail]: mailto:kushalmunjal30@gmail.com
 
 
 
