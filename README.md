@@ -1,4 +1,4 @@
-## Hi, I'm [Kushal Munjal][website] 👋
+## Hi, I'm [Kushal Munjal] 👋
 
 - 🌱 I’m currently learning my UnderGraduate Course i.e Information & Communication Technology at Marwadi University.
 - 🔭 I’m currently exploring & devloping Projects in different Languages.
@@ -10,9 +10,9 @@
 
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />]
 [<img align="left" alt="Kushal Munjal | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="KushalMunjal | Twitter" width="22px" src="https://icons8.com/icon/32323/instagram" />]
+[<img align="left" alt="Kushal Munjal | Instagram" width="22px" src="https://img.icons8.com/color/22/000000/instagram.png" />]
 [<img align="left" alt="Kushal Munjal | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Kushal Munjal | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />]
+[<img align="left" alt="Kushal Munjal | G-Mail" width="22px" src="https://img.icons8.com/color/22/000000/gmail.png" />][gmail]
 
 <br />
 <br />
@@ -45,14 +45,14 @@
 - [Halfwave & Fullwave Rectifier](https://youtu.be/t8Rhe7DjrSg?si=RGNTKyD0uUbSXpJk)
 <!-- YOUTUBE:END -->
 
----
 
 
-[website]: 
-[instagram]: 
+
+
+
 [youtube]: http://www.youtube.com/@kushalmunjal7108
-[facebook]: 
-[linkedin]: www.linkedin.com/in/kushalmunjal
+[linkedin]: https://www.linkedin.com/in/kushalmunjal
+[gmail]: kushalmunjal30@gmail.com
 
 
 
