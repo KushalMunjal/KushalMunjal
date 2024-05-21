@@ -13,7 +13,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KushalMunjal.KushalMunjal&"  />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/54d6d362-a215-4e3d-b7b9-5a61ba2cf7af.svg)](https://wakatime.com/@54d6d362-a215-4e3d-b7b9-5a61ba2cf7af)
 ## Connect with me:
 
 <div align="left">
